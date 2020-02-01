@@ -50,6 +50,7 @@ p{
   color: rgb(57, 20, 175);
   font-weight: 400;
   font-size: 28px;
+  display: none;
 }
 
 button{
@@ -58,4 +59,8 @@ button{
   border-radius: 5px;
   border: 2px solid rgb(65, 44, 132);
   background-color: white;
+}
+
+.restart-button{
+  display: none;
 }
